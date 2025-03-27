@@ -10,11 +10,17 @@
 |-------------|------|
 | `main` | 최종 배포용 메인 브랜치 |
 | `dev` | 기능 개발 통합 브랜치 |
-| `feature/team-leader-test` | 팀장 브랜치 실습용 예시 |
-| `feature/hw-leader-koyeonwoo` | 고연우 – H/W 파트장 |
-| `feature/hw-kimmin` | 김민 – H/W 파트 팀원 |
-| `feature/ai-leader-kimbyeonghun` | 김병훈 – AI & S/W 파트장 |
-| `feature/ai-nojonghwan` | 노종환 – AI & S/W 파트 팀원 |
+
+
+
+| 역할             | 이름     | 브랜치 이름                     | 설명                         |
+|------------------|----------|----------------------------------|------------------------------|
+| 🧑‍💼 팀장           | 고한별   | `feature/team-leader-test`      | 팀장 작업용 테스트 브랜치      |
+| 🧠 AI & S/W 파트장 | 김병훈   | `feature/ai-leader-kimbyeonghun`| AI 및 소프트웨어 파트 총괄 작업용 |
+| 🔧 H/W 파트장     | 고연우   | `feature/hw-leader-koyeonwoo`   | 하드웨어 파트 총괄 작업용      |
+| 🔧 H/W 팀원       | 김민     | `feature/hw-kimmin`             | 하드웨어 파트 팀원 작업용      |
+| 🧠 AI & S/W 팀원  | 노종환   | `feature/ai-nojonghwan`         | AI 및 소프트웨어 팀원 작업용   |
+
 
 > ✅ **규칙**: 각 팀원은 본인 전용 브랜치에서 작업하고, 완료 후 `dev` 브랜치로 Pull Request를 보냅니다.
 
