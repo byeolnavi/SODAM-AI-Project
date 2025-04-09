@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "686628054177",
+    "project_id": "sodamaiproeject",
+    "storage_bucket": "sodamaiproeject.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686628054177:android:618061b2eb069209ddbce0",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfpqfqd5OssHqEdtZ7kd3MgGG0vkmLh1I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
