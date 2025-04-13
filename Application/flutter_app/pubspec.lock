@@ -89,7 +89,7 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.3.2"
-  firebase_auth:
+firebase_auth:
     dependency: "direct main"
     description:
       name: firebase_auth
@@ -160,7 +160,7 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
-  http_parser:
+ http_parser:
     dependency: transitive
     description:
       name: http_parser
